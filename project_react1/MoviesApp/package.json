@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@expo/webpack-config": "^18.0.1",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "expo": "^48.0.16",
+    "metro": "^0.76.4",
+    "metro-core": "^0.76.4",
+    "react-dom": "18.2.0",
+    "react-native": "0.71.7",
+    "react-native-anchor-carousel": "^4.0.1",
+    "react-native-web": "~0.18.10"
+  }
+}
